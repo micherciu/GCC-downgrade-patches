@@ -19,5 +19,5 @@
 5. Specified the directory you are interested in:  
 ### echo "the_exact_name_of_the_directory_interested_in" >> .git/info/sparse-checkout
 
-6. Download the content from the remote directory (with all commit history):  
+6. Download the content from the remote directory (with all commits history):  
 ### git pull origin master
